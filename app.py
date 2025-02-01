@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 
 """
-🎈 My Daily Python Adventures! 🎈
+🎈Ava's Python Adventures! 🎈
 =================================
 
 Let's learn Python by doing our daily activities!
