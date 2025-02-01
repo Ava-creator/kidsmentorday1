@@ -94,7 +94,7 @@ for chore in chores:
     print(f"✓ Did you {chore}?")
 """)
 
-chores = ['make bed', 'brush teeth', 'feed pet', 'clean room', 'homework']
+chores = ['make bed', 'brush teeth',  'clean room', 'homework']
 if st.button("Check My Chores! ✅"):
     chores_done = 0
     for chore in chores:
