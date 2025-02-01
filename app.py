@@ -87,7 +87,7 @@ st.header("4. My Daily Chores ✨")
 
 st.code("""
 # Daily Chores Checker
-chores = ['make bed', 'brush teeth', 'feed pet', 
+chores = ['make bed', 'brush teeth', 
           'clean room', 'homework']
 
 for chore in chores:
